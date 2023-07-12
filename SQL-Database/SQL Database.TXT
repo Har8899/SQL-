@@ -1,0 +1,19 @@
+-SQL Create Database
+
+In SQL, the 'Create Database' statement is a first step for storing the structured data in the database.
+
+The database we want to create should be a simple and unique name, which can be easily identified.
+
+Database name should be no more than 128 characters.
+
+-SQL DROP Database
+
+--The SQL Drop database statement deletes the eisting database permanently from the database system.
+
+--This statement deletes all the data from the database. If you want to restore the deleted data in the future, you should keep the backup of data of that database which you want to delete.
+
+--Another most important point is that you cannot delete that database from the system which is currently in use by another database user. If you do so, then the drop statement shows the error on screen.
+
+-SQL SELECT Database
+
+--Any database user and administrator can easily select the particular database from the current database server using statement in SQL.
